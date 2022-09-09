@@ -1,0 +1,29 @@
+# Visual Studio
+.vscode
+
+# Mac files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Data Files
+*.csv
+*.tar
+*.pyc
+
+# Env files
+.env
+
+# Trash files notebooks
+.Trash-0/
+
+# cache
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+#.docker
+.docker/
+
+
